@@ -27,6 +27,7 @@ Here is how the four most common UK "storage units" for your money stack up righ
 | **Stocks & Shares ISA** | 7% – 10% (Long-term) | 🔴 Moderate | The value moves daily. Only for money you won't touch for 5+ years. |
 
 Go for details to [cash guide](cash-guide.md)
+
 ---
 
 ### 2. Use Your "Tax Wrappers" (ISAs)
