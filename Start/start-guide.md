@@ -63,7 +63,3 @@ You need a "middleman" to buy the stocks. Popular UK choices include:
 > **"Time in the market beats timing the market."** > Don't wait for the "perfect" moment. Set up a **Direct Debit**, automate your investments, and go enjoy a pint while your money does the work.
 
 **Important:** Please remember that with investing, your capital is at risk. Values can go down as well as up!
-
----
-
-**Would you like me to create a sample "Starter Portfolio" breakdown to show you how to diversify across different sectors?**
